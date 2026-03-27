@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Your Name | Portfolio</title>
+  <title Amber Swartzentruber | Portfolio</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     body {
@@ -37,11 +37,10 @@
   </style>
 </head>
 <body>
-<h1>Your Name</h1>
+<h1>Amber Swartzentruber</h1>
 <p><strong>Analytical Research | Case Review | Document Reconstruction</strong></p>
 <p>
-Detail-oriented analyst experienced in reviewing large-scale case files, identifying inconsistencies,
-and reconstructing timelines from complex records.
+professional summary goes here
 </p>
 <h2>Selected Work</h2>
 <div class="project">
@@ -50,16 +49,17 @@ and reconstructing timelines from complex records.
   <span class="tag">Timeline Reconstruction</span>
   <span class="tag">Critical Review</span>
   <p>
-  Reviewed and organized over 2,000 pages of court records. Identified key inconsistencies,
+  Reviewed 2000+ pages of court records, trial transcripts, discovery materials, and post-conviction filings.Reviewed and organized over 2,000 pages of court records. Identified key inconsistencies,
   reconstructed event timelines, and highlighted procedural concerns relevant to appeal strategy.
   </p>
 </div>
 <div class="project">
-  <h3>Project Title 2</h3>
-  <span class="tag">Skill</span>
-  <span class="tag">Skill</span>
+  <h3>Ancestor Tree and eBook</h3>
+  <span class="tag">Qualitative Analysis</span>
+  <span class="tag">Archival Sourcing</span>
+  <span class="tag">Graphic Design</span>
   <p>
-  Brief description focused on what you analyzed, how you approached it, and what insight you produced.
+  Expanded minimal family data into a 60-page eBook with historical documents, photographs, and custom graphics.
   </p>
 </div>
 <div class="project">
@@ -67,7 +67,7 @@ and reconstructing timelines from complex records.
   <span class="tag">Skill</span>
   <span class="tag">Skill</span>
   <p>
-  Keep this concise and outcome-focused.
+  Description
   </p>
 </div>
 <h2>Full Portfolio</h2>
@@ -77,6 +77,6 @@ View detailed work samples and supporting documents:
 <a href="https://github.com/yourusername">GitHub Portfolio</a>
 </p>
 <h2>Contact</h2>
-<p>Email: your@email.com</p>
+<p>Email: amber.swartzentruber@gmail.com</p>
 </body>
 </html>
